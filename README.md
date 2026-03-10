@@ -106,20 +106,6 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 ```
 
-### Run the Notebook
-
-```bash
-# Clone the repository
-git clone https://github.com/Yasir-Aladwani/medical-insurance-random-forest-project.git
-cd medical-insurance-random-forest-project
-
-# Launch Jupyter
-jupyter notebook medical_insurance_cost_prediction_random_forest.ipynb
-```
-
-Or open directly in Google Colab using the badge at the top.
-
----
 
 ## 🔍 Exploratory Data Analysis
 
@@ -268,8 +254,3 @@ A Random Forest Regression model was successfully trained to predict medical ins
 
 The model's performance demonstrates the power of ensemble methods for capturing complex, non-linear interactions in real-world healthcare cost data — and highlights actionable public health implications: wellness programs targeting smoking cessation and weight management would have the largest measurable impact on reducing insurance expenses.
 
----
-
-## 📄 License
-
-This project is for educational purposes as part of the Tuwaiq Academy Machine Learning programme.
