@@ -79,6 +79,7 @@ medical-insurance-random-forest-project/
 ├── medical_insurance_cost_prediction_random_forest.ipynb   # Main notebook
 ├── insurance.csv                                           # Dataset
 └── README.md                                               # This file
+└── RF_Insurance_Final_v3.pptx                              # The presntation
 ```
 
 ---
