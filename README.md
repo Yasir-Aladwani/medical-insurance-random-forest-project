@@ -6,19 +6,6 @@
 
 > A machine learning project that analyzes and predicts medical insurance expenses using **Random Forest Regression**, based on demographic and lifestyle features from the Kaggle Medical Cost Personal Dataset.
 
----
-
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| Abdulrahman Bajunaid | Team Member |
-| Mansour Alhenaki | Team Member |
-| Yasir Aladwani | Team Member |
-
-**Instructor:** Khulud Alshammari  
-**Teaching Assistant:** Abdullah Alharbi  
-**Academy:** Tuwaiq Academy
 
 ---
 
